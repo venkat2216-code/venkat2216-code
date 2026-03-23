@@ -13,12 +13,16 @@ Backend Software Engineer building scalable Java and Spring Boot systems for ent
 
 ---
 
-###  Tech Stack
+### 🛠️ Tech Stack
 
-* Java, Spring Boot, Spring Cloud, Microservices, WebFlux
+* Java, Spring Boot, Spring Cloud, Microservices Architecture, Monolithic Architecture, Event-Driven Architecture
+* REST APIs, SOAP, API Gateway
 * Kafka, RabbitMQ
-* PostgreSQL, MySQL, Redis, DynamoDB
-* AWS, Docker, Kubernetes
+* PostgreSQL, MySQL, DynamoDB, Redis
+* AWS, Docker, Kubernetes, IBM WebSphere
+* React, Angular, JavaScript, HTML5, CSS3
+* JUnit 5, Mockito, Postman, Swagger UI
+* GitHub Copilot, Amazon Q, GenAI Tools
 
 ---
 
